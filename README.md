@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranesh</h1>
-<h3 align="center">🚀 Welcome to my GitHub profile! I love working on innovative projects, from full-stack development. I constantly explore new technologies and contribute to open-source projects.</h3>
+<h3 align="center"> Welcome to my GitHub profile! I love working on innovative projects, from full-stack development. I constantly explore new technologies and contribute to open-source projects.</h3>
 
-- 🌱 I’m currently learning **DSA, MERN Stack**
 
 - 📫 How to reach me **praneshc.22cse@kongu.edu**
 
