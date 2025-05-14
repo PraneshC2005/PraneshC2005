@@ -1,5 +1,25 @@
 <h1 align="center">Hi 👋, I'm Pranesh</h1>
-<h3 align="center"> Welcome to my GitHub profile! I love working on innovative projects, from full-stack development. I constantly explore new technologies and contribute to open-source projects.</h3>
+<h3 align="center">A passionate Full-Stack Developer and Tech Enthusiast</h3>
+
+
+---
+
+- 🌱 I’m currently learning **Advanced DSA and scalable backend architectures**
+- 👯 I’m looking to collaborate on **open-source full-stack or AI-driven projects**
+- 🏆 Finalist of the **Smart India Hackathon 2024**
+- 🥇 1st Prize in **Hacknovate – CSD Hackathon**
+- 🥇 1st Prize in **Project Presentation on AI** at CIET College
+
+---
+
+### 🧑‍💻 Projects
+
+- **Doctor Appointment System**: MERN stack app with secure authentication and task management for appointment scheduling  
+- **BIPV Assessment Tool**: Unreal Engine-based visualization platform to assess solar energy potential  
+- **Movie Recommendation System**: Suggests movies using user search behavior and favorite history  
+- **Expense Tracker**: Web app to track expenses and generate monthly reports  
+
+---
 
 
 - 📫 How to reach me **praneshc.22cse@kongu.edu**
